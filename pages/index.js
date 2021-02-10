@@ -17,6 +17,7 @@ export default function Home({ allPostsData }) {
         <p>
           volvoの人気車種です。僕はこれが欲しい。
         </p>
+        <p>誰か、買ってください！！！</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
